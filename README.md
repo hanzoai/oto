@@ -2,6 +2,8 @@
 
 # Oto
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/oto&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/oto&ref=main&action=edit) [![Deploy with Hanzo](https://hanzo.app/badges/deploy-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/oto&ref=main&action=deploy)
+
 Oto (`oto`, `oto-1`) is Hanzo's Foley and sound effects generation model, served from Hanzo's inference fabric at `api.hanzo.ai` under the canonical id **`oto`** (open foundation: **`zen-foley`** / [`zenlm/zen-foley`](https://github.com/zenlm/zen-foley)). It synthesizes timeline-synchronized Foley, physical impact transients, acoustic room impulse environments, and layered multi-stem ambience.
 
 ```bash
